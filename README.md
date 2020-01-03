@@ -1,6 +1,7 @@
 # Kelas-Excel-Bot
 Fungsi Dalam Kelas Excel Bot
 
+```
 /fungsi_if
 /fungsi_iferror
 /fungsi_and
@@ -467,3 +468,4 @@ Fungsi Dalam Kelas Excel Bot
 /fungsi_encodeurl
 /fungsi_filterxml
 /fungsi_webservice
+```
