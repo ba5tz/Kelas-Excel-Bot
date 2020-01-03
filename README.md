@@ -1,5 +1,9 @@
 # Kelas-Excel-Bot
-Fungsi Dalam Kelas Excel Bot
+
+Kumpulan Perintah yang ada dalam Kelas Excel Bot
+
+<details><summary>List Fungsi</summary>
+<p>
 
 ```
 /fungsi_if
@@ -469,3 +473,5 @@ Fungsi Dalam Kelas Excel Bot
 /fungsi_filterxml
 /fungsi_webservice
 ```
+</p>
+</details>
