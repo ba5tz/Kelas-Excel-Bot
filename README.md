@@ -481,6 +481,9 @@ Kumpulan Perintah yang ada dalam Kelas Excel Bot
 <p>
 ```
 /Help
+/data_validation
+/pivot_table
+/conditional_formatting
 ```
 </p>
 </details>
