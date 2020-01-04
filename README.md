@@ -2,8 +2,9 @@
 
 Kumpulan Perintah yang ada dalam Kelas Excel Bot
 
-<details><summary>List Fungsi [/fungsi_......]</summary>
+<details><summary>Perintah Fungsi [/fungsi_......]</summary>
 <p>
+  Perintah untuk Mengetahui kegunanaan dari Rumus Excel, tulis /Fungsi_namafungsi
 
 ```
 /fungsi_if
@@ -476,6 +477,15 @@ Kumpulan Perintah yang ada dalam Kelas Excel Bot
 </p>
 </details>
 
+<details><summary>Perintah Non Fungsi</summary>
+<p>
 ```
 /Help
 ```
+</p>
+</details>
+<details><summary>Perintah VBA Snippets</summary>
+<p>
+Coming Soon
+</p>
+</details>
