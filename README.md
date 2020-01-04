@@ -480,11 +480,15 @@ Kumpulan Perintah yang ada dalam Kelas Excel Bot
 <details><summary>Perintah Non Fungsi</summary>
 <p>
   list Perintah Non Fungsi
-```/Help
-/data_validation
-/pivot_table
-/conditional_formatting
+  
 ```
+  
+- /Help
+- /data_validation
+- /pivot_table
+- /conditional_formatting
+```
+
 </p>
 </details>
 <details><summary>Perintah VBA Snippets</summary>
