@@ -2,7 +2,7 @@
 
 Kumpulan Perintah yang ada dalam Kelas Excel Bot
 
-<details><summary>Perintah Fungsi [/fungsi_......]</summary>
+<details><summary>Perintah Fungsi</summary>
 <p>
   Perintah untuk Mengetahui kegunanaan dari Rumus Excel, tulis /Fungsi_namafungsi
 
@@ -479,8 +479,8 @@ Kumpulan Perintah yang ada dalam Kelas Excel Bot
 
 <details><summary>Perintah Non Fungsi</summary>
 <p>
-```
-/Help
+  list Perintah Non Fungsi
+```/Help
 /data_validation
 /pivot_table
 /conditional_formatting
