@@ -2,7 +2,7 @@
 
 Kumpulan Perintah yang ada dalam Kelas Excel Bot
 
-<details><summary>List Fungsi</summary>
+<details><summary>List Fungsi [/fungsi_......]</summary>
 <p>
 
 ```
@@ -475,3 +475,6 @@ Kumpulan Perintah yang ada dalam Kelas Excel Bot
 ```
 </p>
 </details>
+```
+/Help
+```
