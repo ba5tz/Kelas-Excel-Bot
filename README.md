@@ -482,8 +482,9 @@ Kumpulan Perintah yang ada dalam Kelas Excel Bot
   list Perintah Non Fungsi
   
 ```
-  
+
 - /Help
+- /About
 - /data_validation
 - /pivot_table
 - /conditional_formatting
@@ -494,5 +495,10 @@ Kumpulan Perintah yang ada dalam Kelas Excel Bot
 <details><summary>Perintah VBA Snippets</summary>
 <p>
 Coming Soon
+  
+  ```
+  
+- /VBA_IF
+```
 </p>
 </details>
