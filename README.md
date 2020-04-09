@@ -499,6 +499,7 @@ Coming Soon
   ```
   
 - /VBA_IF
+- /VBA_DIM
 ```
 </p>
 </details>
