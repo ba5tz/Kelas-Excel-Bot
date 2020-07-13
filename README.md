@@ -484,6 +484,7 @@ Kumpulan Perintah untuk Bot Telegram @Kelas_Excel_bot
 
 ``` 
 - /Help
+- /About
 - /conditional_formatting
 - /data_validation
 - /pivot_table
