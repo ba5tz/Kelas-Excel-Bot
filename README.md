@@ -1,10 +1,10 @@
 # Kelas-Excel-Bot
 
-Kumpulan Perintah yang ada dalam Kelas Excel Bot
+Kumpulan Perintah untuk Bot Telegram @Kelas_Excel_bot
 
 <details><summary>Perintah Fungsi</summary>
 <p>
-  Perintah untuk Mengetahui kegunanaan dari Rumus Excel, tulis /Fungsi_namafungsi
+  Perintah untuk Mengetahui kegunanaan dari Rumus Excel, tulis /fungsi_namafungsi
 
 ```
 /fungsi_if
@@ -51,6 +51,7 @@ Kumpulan Perintah yang ada dalam Kelas Excel Bot
 /fungsi_lookup
 /fungsi_vlookup
 /fungsi_hlookup
+/fungsi_xlookup
 /fungsi_index
 /fungsi_match
 /fungsi_offset
@@ -479,27 +480,25 @@ Kumpulan Perintah yang ada dalam Kelas Excel Bot
 
 <details><summary>Perintah Non Fungsi</summary>
 <p>
-  list Perintah Non Fungsi
-  
-```
+  List Perintah Non Fungsi
 
+``` 
 - /Help
 - /About
+- /conditional_formatting
 - /data_validation
 - /pivot_table
-- /conditional_formatting
 ```
-
 </p>
 </details>
 <details><summary>Perintah VBA Snippets</summary>
 <p>
-Coming Soon
-  
-  ```
-  
-- /VBA_IF
-- /VBA_DIM
+  List Perintah VBA Snippets
+
+``` 
+- /vba_if
+- /vba_if2
+- /vba_dim
 ```
 </p>
 </details>
